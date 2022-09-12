@@ -1,0 +1,37 @@
+#Datos Ejemplo 1: 782,1333,515,1575,696,832,1052,700,987,542,1296,704,814,1482,1023,739,643,956,1023,784
+#Datos Ejemplo 2: 1.82,1.43,1.51,1.47,1.69,1.88,1.52,1.72,1.78,1.54,1.61,1.66,1.70,1.81,1.58,1.48,1.53,1.73,1.61,1.56,1.57,1.78
+#Datos ejemplo 3: 38,15,10,12,62,46,25,56,27,24,23,21,20,25,38,27,48,35,50,65,59,58,47,42,37,35,32,40,28,14,12,24,66,73,72,70,68,65,54,48,34,33,21,19,61,59,47,46,30,30
+#Datos ejemplo 4: 5 clases
+        #Limites inferiores: 30.5,35.5,40.5,45.5,50.5
+        #Limites superiores: 35.5,40.5,45.5,50.5,55.5
+        #Frecuencia absoluta: 33,38,43,48,53
+#Datos ejemplo 5: 5 clases
+        #Limites inferiores: 31,36,41,46,51
+        #Limites superiores: 35,40,45,50,55
+        #Frecuencia absoluta: 15,9,13,16,9
+#Datos ejemplo 6: 5 clases
+        #Limites inferiores: 115,150,185,220,255
+        #Limites superiores: 145,180,215,250,285
+        #Frecuencia absoluta: 6245,7264,11450,2923,8152
+#Datos ejemplo 7: 5 clases
+        #Limites inferiores: 0,4,8,12,16
+        #Limites superiores: 4,8,12,16,20
+        #Frecuencia absoluta: 3,5,6,4,3
+#Datos ejemplo 8 : 8 clases
+        #Limites inferiores: 360,400,440,480,520,560,600,640
+        #limites superiores: 399,439,479,519,559,599,639,679
+        #frecuencias absolutas: 258,261,162,301,321,341,208,347
+        
+#Datos ejemplo 9: 5 clases
+        #Limites inferiores: 39.5,59.5,79.5,99.5,119.5
+        #Limites superiores: 59.5,79.5,99.5,119.5,139.5
+        #Frecuencia absoluta: 385,292,475,129,48
+#Datos ejemplo 10: 10 
+        # 10,11,12,13,14,15,16,17,18,19
+        #10.9,11.9,12.9,13.9,14.9,15.9,16.9,17.9,18.9,19.9
+        # 1,4,6,8,12,11,8,7,6,2
+        
+#Datos ejemplo 11: 8 clases
+        #Limite inferior: 100,150,200,250,300,350,400,450
+        #limite superior: 149.5,199.5,249.5,299.5,349.5,399.5,449.5,499.5
+        #Frecuencia: 12,14,27,58,72,63,36,18
